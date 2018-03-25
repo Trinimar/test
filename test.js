@@ -7,4 +7,5 @@ function reverse(str) {
 	  }
 }
 
+console.log('Before calling functions');
 reverse('reverse');
