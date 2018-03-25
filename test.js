@@ -8,4 +8,5 @@ function reverse(str) {
 }
 
 alert("thi is not going to work");
+console.log('Before calling functions');
 reverse('reverse');
