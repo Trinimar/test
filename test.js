@@ -6,3 +6,5 @@ function reverse(str) {
 	    return  str[str.length - 1] + reverse(str.substr(0, str.length - 1));
 	  }
 }
+
+reverse('reverse');
