@@ -7,4 +7,5 @@ function reverse(str) {
 	  }
 }
 
+alert("thi is not going to work");
 reverse('reverse');
